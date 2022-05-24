@@ -1,3 +1,4 @@
 # Byte-compiled / optimized / DLL files
-
 __pycache__/
+#I am unsure if it's at the end or at the front for the
+#backlash all other sources for this topic have it like this: /__pycache__
